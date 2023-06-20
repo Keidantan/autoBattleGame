@@ -1,0 +1,2 @@
+# autoBattleGame
+auto battler
